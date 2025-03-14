@@ -1,6 +1,6 @@
 {
-  "version": "v7.19.0.733486757 (patches: 5.14.0)",
-  "versionCode": 6,
-  "zipUrl": "https://github.com/avisek/revanced/releases/download/6/googlephotos-revanced-magisk-v7.19.0.733486757-arm-v7a.zip",
+  "version": "v7.20.0.736111255 (patches: 5.14.0)",
+  "versionCode": 7,
+  "zipUrl": "https://github.com/avisek/revanced/releases/download/7/googlephotos-revanced-magisk-v7.20.0.736111255-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/avisek/revanced/update/build.md"
 }

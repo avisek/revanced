@@ -1,6 +1,6 @@
 {
   "version": "v7.16.53 (patches: 5.4.2)",
-  "versionCode": 5,
-  "zipUrl": "https://github.com/avisek/revanced/releases/download/5/music-revanced-extended-magisk-v7.16.53-arm-v7a.zip",
+  "versionCode": 7,
+  "zipUrl": "https://github.com/avisek/revanced/releases/download/7/music-revanced-extended-magisk-v7.16.53-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/avisek/revanced/update/build.md"
 }
