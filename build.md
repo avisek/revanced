@@ -1,15 +1,21 @@
-GooglePhotos (arm64-v8a): 7.34.0.773090893  
-GooglePhotos (arm-v7a): 7.34.0.773090893  
-Music-Extended (arm64-v8a): 8.05.51  
-Music-Extended (arm-v7a): 8.05.51  
-Spotify: 9.0.56.106  
-YouTube-Extended: 19.47.53  
+## Downloads
+  
+| App | APK (Non-Root) | Magisk Module (Root) |  
+|-----|----------------|----------------------|  
+| **GooglePhotos ReVanced**<br/><sup>7.34.0.773090893</sup> | [APK (arm-v7a)](https://github.com/avisek/revanced-apps/releases/download/29/googlephotos-revanced-v7.34.0.773090893-arm-v7a.apk)<br/>[APK (arm64-v8a)](https://github.com/avisek/revanced-apps/releases/download/29/googlephotos-revanced-v7.34.0.773090893-arm64-v8a.apk) | [Module (arm-v7a)](https://github.com/avisek/revanced-apps/releases/download/29/googlephotos-revanced-magisk-v7.34.0.773090893-arm-v7a.zip)<br/>[Module (arm64-v8a)](https://github.com/avisek/revanced-apps/releases/download/29/googlephotos-revanced-magisk-v7.34.0.773090893-arm64-v8a.zip) |  
+| **Music ReVanced Extended**<br/><sup>8.05.51</sup> | [APK (arm-v7a)](https://github.com/avisek/revanced-apps/releases/download/29/music-revanced-extended-v8.05.51-arm-v7a.apk)<br/>[APK (arm64-v8a)](https://github.com/avisek/revanced-apps/releases/download/29/music-revanced-extended-v8.05.51-arm64-v8a.apk) | [Module (arm-v7a)](https://github.com/avisek/revanced-apps/releases/download/29/music-revanced-extended-magisk-v8.05.51-arm-v7a.zip)<br/>[Module (arm64-v8a)](https://github.com/avisek/revanced-apps/releases/download/29/music-revanced-extended-magisk-v8.05.51-arm64-v8a.zip) |  
+| **Spotify ReVanced**<br/><sup>9.0.56.106</sup> | [APK](https://github.com/avisek/revanced-apps/releases/download/29/spotify-revanced-v9.0.56.106-all.apk) | - |  
+| **YouTube ReVanced Extended**<br/><sup>19.47.53</sup> | [APK](https://github.com/avisek/revanced-apps/releases/download/29/youtube-revanced-extended-v19.47.53-all.apk) | [Module](https://github.com/avisek/revanced-apps/releases/download/29/youtube-revanced-extended-magisk-v19.47.53-all.zip) |  
+  
+
+## Notes  
 
 Install [MicroG](https://github.com/ReVanced/GmsCore/releases) to be able to use non-root YouTube or YouTube-Music.  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to block Play Store from updating YouTube and YouTube-Music.  
 
 [Main Repo](https://github.com/avisek/revanced-apps)
   
+## Changelog  
 CLI: inotia00/revanced-cli-5.0.1-all.jar  
 Patches: inotia00/patches-5.6.2.rvp  
 [Changelog](https://github.com/inotia00/revanced-patches/releases/tag/v5.6.2)
